@@ -1,9 +1,11 @@
 # 🏨 Hotel Booking Analysis – Python Data Analytics Project
 
 📌 Summary <br>
+
 This project focuses on analyzing hotel booking data using Python to uncover booking patterns, customer behavior, and factors affecting cancellations and revenue. The objective is to transform raw hotel booking data into meaningful insights through data cleaning, exploratory data analysis (EDA), and visualization, helping hotels make data-driven operational and pricing decisions.
 
 🎯 Objectives<br>
+
 Understand hotel booking trends and customer behavior
 Analyze cancellation patterns and key influencing factors
 Identify revenue-related insights from booking data
@@ -11,6 +13,7 @@ Perform data cleaning and preprocessing for accurate analysis
 Use visualizations to communicate insights effectively
 
 📊 Key Analysis Performed <br>
+
 Data Cleaning & Preprocessing
  - Handled missing and inconsistent values
  - Converted data types for accurate analysis
@@ -44,4 +47,5 @@ Visualization & Insights
 - Jupyter Notebook / VS Code
 
 📝 Final Description <br>
+
 This project demonstrates the application of Python for real-world data analysis in the hospitality domain. By performing data cleaning, exploratory analysis, and visualization, the project highlights how data analytics can uncover valuable insights into hotel booking behavior, cancellation trends, and revenue patterns. The analysis supports data-driven decision-making and showcases practical skills required for Data Analyst and Data Science roles.
