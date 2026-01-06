@@ -46,6 +46,6 @@ Visualization & Insights
 - Seaborn
 - Jupyter Notebook / VS Code
 
-📝 Final Description <br>
+📝 Description <br>
 
 This project demonstrates the application of Python for real-world data analysis in the hospitality domain. By performing data cleaning, exploratory analysis, and visualization, the project highlights how data analytics can uncover valuable insights into hotel booking behavior, cancellation trends, and revenue patterns. The analysis supports data-driven decision-making and showcases practical skills required for Data Analyst and Data Science roles.
