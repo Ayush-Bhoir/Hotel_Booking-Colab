@@ -3,14 +3,14 @@
 📌 Summary <br>
 This project focuses on analyzing hotel booking data using Python to uncover booking patterns, customer behavior, and factors affecting cancellations and revenue. The objective is to transform raw hotel booking data into meaningful insights through data cleaning, exploratory data analysis (EDA), and visualization, helping hotels make data-driven operational and pricing decisions.
 
-🎯 Objectives
+🎯 Objectives<br>
 Understand hotel booking trends and customer behavior
 Analyze cancellation patterns and key influencing factors
 Identify revenue-related insights from booking data
 Perform data cleaning and preprocessing for accurate analysis
 Use visualizations to communicate insights effectively
 
-📊 Key Analysis Performed
+📊 Key Analysis Performed <br>
 Data Cleaning & Preprocessing
  - Handled missing and inconsistent values
  - Converted data types for accurate analysis
